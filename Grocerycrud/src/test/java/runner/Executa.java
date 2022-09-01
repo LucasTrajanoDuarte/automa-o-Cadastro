@@ -49,6 +49,7 @@ public class Executa extends DriversFactory {
 	public static void fecharNavegador() {
 		driver.quit();
 
+	}{
+	System.out.println("------Teste finalizado--------");
 	}
-
 }
